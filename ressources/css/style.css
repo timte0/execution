@@ -15,3 +15,12 @@ a {
     color: aquamarine;
     font-size: 16px;
 }
+h2 {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+div {
+    padding: 20px;
+}
